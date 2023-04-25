@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://571147.github.io</id>
+    <title>Special_Tony 的博客</title>
+    <updated>2023-04-25T04:50:27.479Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://571147.github.io"/>
+    <link rel="self" href="https://571147.github.io/atom.xml"/>
+    <subtitle>信息学奥赛</subtitle>
+    <logo>https://571147.github.io/images/avatar.png</logo>
+    <icon>https://571147.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Special_Tony 的博客</rights>
+</feed>
